@@ -13,7 +13,8 @@
 
 <body>
   <main>
-    @yield('content')
+    @yield('navbar')
+    @yield('main')
   </main>
 
 </body>
